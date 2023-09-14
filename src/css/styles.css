@@ -5,8 +5,16 @@
   |============================
 */
 @import url('./reset.css');
-@import url('./vite-promo.css');
-@import url('./header.css');
+@import url('./01-header.css');
+@import url('./02-introduction.css');
+@import url('./03-categories.css');
+@import url('./04-popular-recips.css');
+@import url('./05-filter.css');
+@import url('./06-dishes.css');
+@import url('./07-menu.css');
+@import url('./08-dish-page.css');
+@import url('./09-favorites.css');
+
 
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
