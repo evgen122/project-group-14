@@ -30,5 +30,8 @@
     <symbol id="icon-x" viewBox="0 0 32 32">
       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.667" d="M24 8 8 24M8 8l16 16"/>
     </symbol>
+    <symbol id="icon-heart" viewBox="0 0 33 32">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.207" d="M16.54 9.141c-2.022-2.364-5.395-3-7.929-.835s-2.891 5.785-.901 8.345c1.654 2.129 6.661 6.619 8.302 8.072.183.163.275.244.382.276a.508.508 0 0 0 .289 0c.107-.032.199-.113.382-.276 1.641-1.453 6.648-5.943 8.302-8.072 1.99-2.561 1.677-6.203-.901-8.345s-5.906-1.529-7.928.835z"/>
+    </symbol>
   </defs>
 </svg>
